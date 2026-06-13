@@ -35,6 +35,7 @@ boolean testFail is used to determine whether the test should be terminated earl
 ---Program structure---
 
 Main menu
+
 The user is greeted and showed 2 options, Take the Certification Test or Login as Admin. The user's choice determines which section is run. 
 
 Certification test
